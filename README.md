@@ -6,7 +6,8 @@
 
 ## 🚩 Banner
 
-![imagen](https://github.com/user-attachments/assets/bd17677e-b123-4ddf-93d8-32872532f0df)
+![imagen](https://github.com/user-attachments/assets/851fb5ef-a2af-4591-b561-7229428a13a6)
+
 
 
 
