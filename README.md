@@ -1,5 +1,3 @@
-# <font color='magenta'>IA2_GNNProstate</font>
-
 # Acceso al Dataset y Descripción de Notebooks
 
 **📁 Link a la carpeta de Google Drive:**  
