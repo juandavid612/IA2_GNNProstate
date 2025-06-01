@@ -1,4 +1,4 @@
-# foo <font color='cyan'>IA2_GNNProstate</font> foo
+# <font color='magenta'>IA2_GNNProstate</font>
 
 # Acceso al Dataset y Descripción de Notebooks
 
