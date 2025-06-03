@@ -39,7 +39,7 @@ Se exploraron varias arquitecturas orientadas a grafos:
 
 - 📈 **Diapositivas**:
   [https://www.canva.com/design/DAGo4NlIXqI/jwmngl2Bm7tya8zJGd_4qg/edit?utm_content=DAGo4NlIXqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGo4NlIXqI/jwmngl2Bm7tya8zJGd_4qg/edit?utm_content=DAGo4NlIXqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- 📹 **Video**: -
+- 📹 **Video**: [https://youtu.be/L6hYPl8DNFY](https://youtu.be/L6hYPl8DNFY)
 - 📁 **Carpeta Google Drive**:
   [https://drive.google.com/drive/folders/1KVk8y6Z24sh3nGK-sL6-UG8F5mxr6AV2?usp=sharing](https://drive.google.com/drive/folders/1KVk8y6Z24sh3nGK-sL6-UG8F5mxr6AV2?usp=sharing)
 - :octocat: **Repositorio**:
